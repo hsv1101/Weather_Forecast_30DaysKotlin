@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\mobile_navigation.xml","javaFiles":["com.hs.weatherforecast.ui.splash.SplashFragmentDirections","com.hs.weatherforecast.ui.dashboard.DashboardFragmentDirections","com.hs.weatherforecast.ui.weather_detail.WeatherDetailFragmentArgs","com.hs.weatherforecast.ui.search.SearchFragmentDirections"]}]

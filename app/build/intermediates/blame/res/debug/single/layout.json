@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Projects\\30DaysKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_forecast.xml",
+        "source": "D:\\Projects\\30DaysKotlin\\app\\src\\main\\res\\layout\\item_forecast.xml"
+    },
+    {
+        "merged": "D:\\Projects\\30DaysKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_splash.xml",
+        "source": "D:\\Projects\\30DaysKotlin\\app\\src\\main\\res\\layout\\fragment_splash.xml"
+    },
+    {
+        "merged": "D:\\Projects\\30DaysKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_weather_hour_of_day.xml",
+        "source": "D:\\Projects\\30DaysKotlin\\app\\src\\main\\res\\layout\\item_weather_hour_of_day.xml"
+    },
+    {
+        "merged": "D:\\Projects\\30DaysKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Projects\\30DaysKotlin\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Projects\\30DaysKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_dashboard_forecast.xml",
+        "source": "D:\\Projects\\30DaysKotlin\\app\\src\\main\\res\\layout\\layout_dashboard_forecast.xml"
+    },
+    {
+        "merged": "D:\\Projects\\30DaysKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_search_result.xml",
+        "source": "D:\\Projects\\30DaysKotlin\\app\\src\\main\\res\\layout\\item_search_result.xml"
+    },
+    {
+        "merged": "D:\\Projects\\30DaysKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_search.xml",
+        "source": "D:\\Projects\\30DaysKotlin\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "D:\\Projects\\30DaysKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_dashboard.xml",
+        "source": "D:\\Projects\\30DaysKotlin\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "D:\\Projects\\30DaysKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_weather_detail.xml",
+        "source": "D:\\Projects\\30DaysKotlin\\app\\src\\main\\res\\layout\\fragment_weather_detail.xml"
+    }
+]
